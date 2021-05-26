@@ -35,7 +35,6 @@ Billetera Virtual realizada en los HenryLabs de [Soy Henry](https://www.soyhenry
 <li>Node.Js</li>
 <li>Express</li>
 <li>PostgreSQL / Sequelize</li>
-<li>Deploy / Digital Ocean</li>
 </ul>
 
 ## Ecommerce HenrySport
