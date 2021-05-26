@@ -10,6 +10,26 @@ Me considero una persona autodidacta que está en constante aprendizaje, investi
 </p>
 
 
+# Skills
+
+<p justify-content="center">
+   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+  <code> <img width="10%" height="63px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
+ <code> <img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <br />
+  <br/>
+  <code> <img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code> <img width="10%" height="50px"         src="https://camo.githubusercontent.com/7b7f04b16cc2d2d4a32985710e4d640985337a32bbb1e60cdacede2c8a4ae57b/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667"></code>
+  <code> <img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <br/>
+  <br/>
+  <code> <img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code> <img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code> <img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  
+</p>
+
+
 # 📫 ¿Cómo contactarme?
 <p>
 <a href="https://www.linkedin.com/in/ignaciovid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ignacio%20Videla-blue?style=flat-square&logo=linkedin"></a>
