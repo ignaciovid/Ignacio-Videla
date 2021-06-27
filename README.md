@@ -14,7 +14,7 @@ Me considero una persona autodidacta que está en constante aprendizaje, investi
 
 <p justify-content="center">
    <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code> <img width="10%" height="63px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
+  <code> <img width="10%" height="63px" src="![css](https://user-images.githubusercontent.com/65375969/123530480-2c058400-d6d1-11eb-817d-a4d345a0a049.png)"></code>
  <code> <img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <br />
   <br/>
