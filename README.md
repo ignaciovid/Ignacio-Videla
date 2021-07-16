@@ -4,8 +4,7 @@
 Hola, soy Ignacio Videla, tengo 23 años, soy de San Luis Argentina. Soy desarrollador web FullStack, enfocado en el Front-end.
 Tengo habilidades con Javascript, React, Redux, React Native, Node, Express, Sequalize, entre otros.
 <br/>
-Me considero una persona autodidacta que está en constante aprendizaje, investigando y practicando cosas nuevas. Actualmente me encuentr en el primer año de la 
-  <br/>
+Me considero una persona autodidacta que está en constante aprendizaje, investigando y practicando cosas nuevas. <br/> Actualmente me encuentro en el primer año de la 
   <b>Licenciatura en Ciencias de la Computación</b> en la Universidad Nacional de San Luis.
 </p>
 
